@@ -2,49 +2,44 @@
   "podcasts": [
     {
       "id": 1,
-      "title": "RocketCast",
-      "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png",
+      "title": "Show da Fé",
+      "artist": "RR Soares",
+      "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
-          "id": "0",
-          "title": "Papercut",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png"
+          "id": "5144",
+          "title": "O Evangelho justifica o homem",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5144.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5144.jpg"
         },
         {
-          "id": "1",
-          "title": "One Step Closer",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png"
+          "id": "5143",
+          "title": "Acredite no Senhor",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5143.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5143.jpg"
         },
         {
-          "id": "2",
-          "title": "With You",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png"
+          "id": "5142",
+          "title": "O privilégio de servir a Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5142.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5142.jpg"
         },
         {
-          "id": "3",
-          "title": "Points of Authority",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png"
-        },
-        {
-          "id": "4",
-          "title": "Crawling",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png"
+          "id": "5141",
+          "title": "Os dons de Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5141.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5141.jpg"
         }
       ]
     },
     {
       "id": 2,
       "title": "React Native Cast",
+      "artist": "Linkin Park",
       "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png",
       "tracks": [
         {
@@ -87,6 +82,7 @@
     {
       "id": 3,
       "title": "PodNode",
+      "artist": "Linkin Park",
       "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png",
       "tracks": [
         {
@@ -129,6 +125,7 @@
     {
       "id": 4,
       "title": "JSCast",
+      "artist": "Linkin Park",
       "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png",
       "tracks": [
         {
@@ -171,6 +168,7 @@
     {
       "id": 5,
       "title": "Rádio ReactJS",
+      "artist": "Linkin Park",
       "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png",
       "tracks": [
         {
