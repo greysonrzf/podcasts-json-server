@@ -38,173 +38,93 @@
     },
     {
       "id": 2,
-      "title": "React Native Cast",
-      "artist": "Linkin Park",
-      "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png",
+      "title": "Curso Fé",
+      "artist": "RR Soares",
+      "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
       "tracks": [
         {
+          "id": "1",
+          "title": "Determinação",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe01.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        },
+        {
+          "id": "2",
+          "title": "Os cinco passos da vitoria",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe02.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        },
+        {
+          "id": "3",
+          "title": "Os nossos direitos as bênçãos",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe03.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        },
+        {
+          "id": "4",
+          "title": "O nome de Jesus",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe04.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        },
+        {
           "id": "5",
-          "title": "Papercut",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png"
+          "title": "A fórmula da oração",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe05.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "6",
-          "title": "One Step Closer",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png"
+          "title": "A derrota de satanás",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe06.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "7",
-          "title": "With You",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png"
+          "title": "Resistir",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe07.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "8",
-          "title": "Points of Authority",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png"
+          "title": "Mais que vencedores",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe08.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "9",
-          "title": "Crawling",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "PodNode",
-      "artist": "Linkin Park",
-      "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png",
-      "tracks": [
+          "title": "As palavras",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe09.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        },
         {
           "id": "10",
-          "title": "Papercut",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png"
+          "title": "Confissão",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe10.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "11",
-          "title": "One Step Closer",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png"
+          "title": "Vãs repetições",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe11.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         },
         {
           "id": "12",
-          "title": "With You",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png"
-        },
-        {
-          "id": "13",
-          "title": "Points of Authority",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png"
-        },
-        {
-          "id": "14",
-          "title": "Crawling",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "JSCast",
-      "artist": "Linkin Park",
-      "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png",
-      "tracks": [
-        {
-          "id": "15",
-          "title": "Papercut",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png"
-        },
-        {
-          "id": "16",
-          "title": "One Step Closer",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png"
-        },
-        {
-          "id": "17",
-          "title": "With You",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png"
-        },
-        {
-          "id": "18",
-          "title": "Points of Authority",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png"
-        },
-        {
-          "id": "19",
-          "title": "Crawling",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Rádio ReactJS",
-      "artist": "Linkin Park",
-      "cover": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png",
-      "tracks": [
-        {
-          "id": "20",
-          "title": "Papercut",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover1.png"
-        },
-        {
-          "id": "21",
-          "title": "One Step Closer",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover2.png"
-        },
-        {
-          "id": "22",
-          "title": "With You",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover3.png"
-        },
-        {
-          "id": "23",
-          "title": "Points of Authority",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover4.png"
-        },
-        {
-          "id": "24",
-          "title": "Crawling",
-          "artist": "Linkin Park",
-          "url": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
-          "artwork": "https://s3-sa-east-1.amazonaws.com/gonative/cover5.png"
+          "title": "Realizando a obra de Deus",
+          "artist": "RR Soares",
+          "url": "https://cursofe.ongrace.com/media/uploads/audio/01/22/2016/cursofe12.ogg",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         }
       ]
     }
