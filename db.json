@@ -171,10 +171,24 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
-          "id": "3",
+          "id": "5",
+          "title": "Atrai o Meu Coração",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/atrai_o_meu_coracao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+                {
+          "id": "4",
           "title": "Se Eu Me Humilhar",
           "artist": "Culto Ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/se_eu_me_humilhar.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+                {
+          "id": "3",
+          "title": "Junto a Ti",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/junto_a_ti.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
                 {
