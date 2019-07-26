@@ -213,10 +213,45 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
-          "id": "10",
+          "id": "15",
+          "title": "Faça Morada",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faca_morada.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "14",
+          "title": "Que Ele Cresça",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/que_ele_cresca.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "13",
+          "title": "Nada Além do Sangue",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/nada_alem_do_sangue.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "12",
           "title": "Primeiro Amor",
           "artist": "Culto Ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/primeiro_amor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "11",
+          "title": "Eu Navegarei",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/eu_navegarei.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },        
+        {
+          "id": "10",
+          "title": "Sonda-me, Usa-me",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sonda-me_usa-me.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
                 {
@@ -226,14 +261,14 @@
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_agora_espirito_santo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
-                {
+        {
           "id": "8",
           "title": "Deus Pode Tudo",
           "artist": "Culto Ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_pode_tudo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
-                {
+        {
           "id": "7",
           "title": "Atrai o Meu Coração",
           "artist": "Culto Ao Vivo",
