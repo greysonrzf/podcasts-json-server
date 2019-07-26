@@ -213,6 +213,27 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "10",
+          "title": "Primeiro Amor",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/primeiro_amor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+                {
+          "id": "9",
+          "title": "Vem Agora Espírito Santo",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_agora_espirito_santo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+                {
+          "id": "8",
+          "title": "Deus Pode Tudo",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_pode_tudo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+                {
           "id": "7",
           "title": "Atrai o Meu Coração",
           "artist": "Culto Ao Vivo",
