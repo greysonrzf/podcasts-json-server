@@ -156,27 +156,90 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "16",
+          "title": "Entregue teu coração ao Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG08112015.2000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "15",
+          "title": "Seja dependente do Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15102017.1630.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "14",
+          "title": "Prepare o seu coração",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG29112015.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },        
+        {
+          "id": "13",
+          "title": "Vencendo as tentações",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG25102015.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "12",
+          "title": "Busque andar na palavra",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG10012016.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "11",
+          "title": "Quem teme Deus não teme o mal",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG31012016.1500.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "10",
+          "title": "Peça sempre direção ao Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG06032016.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },        
+        {
+          "id": "9",
+          "title": "Busque ter confiança no Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG13032016.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "8",
+          "title": "Deixe Deus falar ao seu coração",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG27032017.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "7",
           "title": "Siga a luz",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG14052017.2000.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "6",
           "title": "A Justiça de Deus",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22042017.1800.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "5",
-          "title": "Seja dependente do Senhor",
+          "title": "Viva na liberdade de Cristo",
           "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15102017.1630.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG08112015.1600.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "4",
           "title": "Permita Deus entrar na sua vida",
           "artist": "Jaime de Amorim",
