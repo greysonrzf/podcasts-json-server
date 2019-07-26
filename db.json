@@ -1,267 +1,267 @@
 {
-  "podcasts": [
-    {
-      "id": 1,
-      "title": "Show da Fé",
-      "artist": "RR Soares",
-      "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
-      "tracks": [
-         {
-          "id": "5147",
-          "title": "Em Cristo somos inocentados",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5147.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5147.jpg"
-        },
-         {
-          "id": "5146",
-          "title": "A terra da Promessa",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5146.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5146.jpg"
-        },
-         {
-          "id": "5145",
-          "title": "Justificados por Jesus",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5145.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5145.jpg"
-        },
-        {
-          "id": "5144",
-          "title": "O Evangelho justifica o homem",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5144.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5144.jpg"
-        },
-        {
-          "id": "5143",
-          "title": "Acredite no Senhor",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5143.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5143.jpg"
-        },
-        {
-          "id": "5142",
-          "title": "O privilégio de servir a Deus",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5142.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5142.jpg"
-        },
-        {
-          "id": "5141",
-          "title": "Os dons de Deus",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5141.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5141.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Curso Fé",
-      "artist": "RR Soares",
-      "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
-      "tracks": [
-        {
-          "id": "1",
-          "title": "Determinação",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe01.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "2",
-          "title": "Os cinco passos da vitoria",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe02.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "3",
-          "title": "Os nossos direitos as bênçãos",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe03.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "4",
-          "title": "O nome de Jesus",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe04.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "5",
-          "title": "A fórmula da oração",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe05.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "6",
-          "title": "A derrota de satanás",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe06.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "7",
-          "title": "Resistir",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe07.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "8",
-          "title": "Mais que vencedores",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe08.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "9",
-          "title": "As palavras",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe09.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "10",
-          "title": "Confissão",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe10.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "11",
-          "title": "Vãs repetições",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe11.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "12",
-          "title": "Realizando a obra de Deus",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe12.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Ministrações",
-      "artist": "Jaime de Amorim",
-      "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
-      "tracks": [
-        {
-          "id": "7",
-          "title": "A importancia de Temer a Deus",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG26032017.1900.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-        {
-          "id": "6",
-          "title": "Para Deus nada é impossível",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG21072019.1400.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-                {
-          "id": "5",
-          "title": "Busque o melhor de Deus",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG19112017.1900.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-        {
-          "id": "4",
-          "title": "Permita Deus entrar na sua vida",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22102017.1800.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-        {
-          "id": "3",
-          "title": "Seja dependente do Senhor",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15102017.1630.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-        {
-          "id": "2",
-          "title": "Siga a luz",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG14052017.2000.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-        {
-          "id": "1",
-          "title": "A Justiça de Deus",
-          "artist": "Jaime de Amorim",
-          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22042017.1800.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
-        },
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Adoração",
-      "artist": "Culto Ao Vivo",
-      "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
-      "tracks": [
-        {
-          "id": "7",
-          "title": "Atrai o Meu Coração",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/atrai_o_meu_coracao.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-        {
-          "id": "6",
-          "title": "Consagração",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/consagracao.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-                {
-          "id": "5",
-          "title": "Se Eu Me Humilhar",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/se_eu_me_humilhar.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-                {
-          "id": "4",
-          "title": "Junto a Ti",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/junto_a_ti.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-                {
-          "id": "3",
-          "title": "Deixa-me Tocar",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/deixa-me_tocar.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-                {
-          "id": "2",
-          "title": "A Casa É Sua",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_casa_e_sua.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-        {
-          "id": "1",
-          "title": "Venha o Teu Reino",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/venha_o_teu_reino.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        }
-      ]
-    }
-  ]
-}
+    "podcasts": [
+      {
+        "id": 1,
+        "title": "Show da Fé",
+        "artist": "RR Soares",
+        "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
+        "tracks": [
+           {
+            "id": "5147",
+            "title": "Em Cristo somos inocentados",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5147.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5147.jpg"
+          },
+           {
+            "id": "5146",
+            "title": "A terra da Promessa",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5146.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5146.jpg"
+          },
+           {
+            "id": "5145",
+            "title": "Justificados por Jesus",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5145.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5145.jpg"
+          },
+          {
+            "id": "5144",
+            "title": "O Evangelho justifica o homem",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5144.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5144.jpg"
+          },
+          {
+            "id": "5143",
+            "title": "Acredite no Senhor",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5143.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5143.jpg"
+          },
+          {
+            "id": "5142",
+            "title": "O privilégio de servir a Deus",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5142.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5142.jpg"
+          },
+          {
+            "id": "5141",
+            "title": "Os dons de Deus",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5141.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/images/5141.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Curso Fé",
+        "artist": "RR Soares",
+        "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
+        "tracks": [
+          {
+            "id": "1",
+            "title": "Determinação",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe01.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "2",
+            "title": "Os cinco passos da vitoria",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe02.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "3",
+            "title": "Os nossos direitos as bênçãos",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe03.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "4",
+            "title": "O nome de Jesus",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe04.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "5",
+            "title": "A fórmula da oração",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe05.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "6",
+            "title": "A derrota de satanás",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe06.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "7",
+            "title": "Resistir",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe07.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "8",
+            "title": "Mais que vencedores",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe08.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "9",
+            "title": "As palavras",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe09.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "10",
+            "title": "Confissão",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe10.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "11",
+            "title": "Vãs repetições",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe11.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          },
+          {
+            "id": "12",
+            "title": "Realizando a obra de Deus",
+            "artist": "RR Soares",
+            "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe12.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Ministrações",
+        "artist": "Jaime de Amorim",
+        "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
+        "tracks": [
+            {
+                "id": "7",
+                "title": "A Justiça de Deus",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22042017.1800.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+                "id": "6",
+                "title": "Siga a luz",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG14052017.2000.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+                "id": "5",
+                "title": "Seja dependente do Senhor",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15102017.1630.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+                "id": "4",
+                "title": "Permita Deus entrar na sua vida",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22102017.1800.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+                "id": "3",
+                "title": "A importancia de Temer a Deus",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG26032017.1900.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+                "id": "2",
+                "title": "Busque o melhor de Deus",
+                "artist": "Jaime de Amorim",
+                "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG19112017.1900.mp3",
+                "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+              },
+            {
+            "id": "1",
+            "title": "Para Deus nada é impossível",
+            "artist": "Jaime de Amorim",
+            "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG21072019.1400.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Adoração",
+        "artist": "Culto Ao Vivo",
+        "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
+        "tracks": [
+          {
+            "id": "7",
+            "title": "Atrai o Meu Coração",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/atrai_o_meu_coracao.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+          {
+            "id": "6",
+            "title": "Consagração",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/consagracao.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+                  {
+            "id": "5",
+            "title": "Se Eu Me Humilhar",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/se_eu_me_humilhar.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+                  {
+            "id": "4",
+            "title": "Junto a Ti",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/junto_a_ti.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+                  {
+            "id": "3",
+            "title": "Deixa-me Tocar",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/deixa-me_tocar.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+                  {
+            "id": "2",
+            "title": "A Casa É Sua",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_casa_e_sua.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          },
+                          {
+            "id": "1",
+            "title": "Venha o Teu Reino",
+            "artist": "Culto Ao Vivo",
+            "url": "https://www.bestrongest.com.br/podcasts/worship/files/venha_o_teu_reino.mp3",
+            "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+          }
+        ]
+      }
+    ]
+  }
