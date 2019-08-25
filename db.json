@@ -7,6 +7,34 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5171",
+          "title": "O trono de Jesus é eterno",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5171.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5170",
+          "title": "O Reino do Senhor jamais terá fim",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5170.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5169",
+          "title": "Jesus deu autoridade a você",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5169.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5168",
+          "title": "Viva de acordo com a Palavra",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5168.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5167",
           "title": "A sua sorte é o Senhor",
           "artist": "RR Soares",
@@ -32,6 +60,27 @@
           "title": "A Palavra de Jesus liberta",
           "artist": "RR Soares",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5164.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5163",
+          "title": "O que Deus fala produz mudança",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5163.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5162",
+          "title": "O poder transformador da Palavra",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5162.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5161",
+          "title": "A recompensa dos sábios",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5161.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
@@ -275,6 +324,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "24",
+          "title": "Vença a anciedade",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23072012.0001.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "23",
           "title": "Jesus quer ressuscitar seus sonhos",
           "artist": "Jaime de Amorim",
@@ -414,21 +470,21 @@
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22102017.1800.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "3",
           "title": "A importancia de Temer a Deus",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG26032017.1900.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "2",
           "title": "Para Deus nada é impossível",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG21072019.1400.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
-                {
+        {
           "id": "1",
           "title": "Busque o melhor de Deus",
           "artist": "Jaime de Amorim",
