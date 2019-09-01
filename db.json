@@ -528,6 +528,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "26",
+          "title": "Vem, Espírito Santo",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_espirito_santo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "25",
           "title": "Preciso de Ti",
           "artist": "Culto Ao Vivo",
@@ -682,10 +689,17 @@
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
-          "id": "3",
+          "id": "3b",
           "title": "Renova-me",
           "artist": "Culto Ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/renova-me.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "3",
+          "title": "Rei da Glória",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/rei_da_gloria.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
@@ -713,7 +727,7 @@
     },
     {
       "id": 5,
-      "title": "Night 4 Jesus",
+      "title": "Night4Jesus",
       "artist": "Culto ao Vivo",
       "cover": "https://www.bestrongest.com.br/podcasts/n4j/n4j-album-cover.jpg",
       "tracks": [
@@ -722,6 +736,13 @@
           "title": "Desapegue-se do natural",
           "artist": "Culto ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/n4j/files/N4J10082019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/n4j/n4j-album-cover.jpg"
+        },
+        {
+          "id": "99",
+          "title": "Desperte para a realidade espiritual",
+          "artist": "Culto ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/N4J03082019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/n4j/n4j-album-cover.jpg"
         }
       ]
