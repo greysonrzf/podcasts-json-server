@@ -337,6 +337,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "30",
+          "title": "Não seja precipitado",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG02122019.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "29",
           "title": "Deus nos faz esquecer",
           "artist": "Jaime de Amorim",
@@ -547,6 +554,13 @@
       "artist": "Culto Ao Vivo",
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
+        {
+          "id": "27",
+          "title": "Faz Tudo Novo",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
         {
           "id": "26",
           "title": "Vem, Espírito Santo",
