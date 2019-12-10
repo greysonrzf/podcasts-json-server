@@ -408,6 +408,231 @@
       ]
     },
     {
+      "id": 2,
+      "title": "Semeando a Fé",
+      "artist": "RR Soares",
+      "cover": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Aprenda Como Ser Usado por Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "2",
+          "title": "Nunca Mais Perca Batalhas",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.02.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "3",
+          "title": "Como Agir Diante das Lutas",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.03.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Descubra a Autoridade Que Você Tem",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.04.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "5",
+          "title": "Veja a Festa Que Está Preparada para Você",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.05.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "6",
+          "title": "Para de Mendigar",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.06.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "7",
+          "title": "Como Deus Deseja nos Guiar",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.07.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Nunca Deixe isso Acontecer",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.08.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Apesar de Ricos, Miseráveis",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.09.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Assuma Sua Posição Diante de Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.10.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "11",
+          "title": "Um Conselho para os Servos de Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.11.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "12",
+          "title": "Veja o Que Ganha Quem Pratica a Palavra",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.12.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "13",
+          "title": "Descubra o Que Deus Quer Fazer com Você",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.13.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "14",
+          "title": "Por Que Devemos Comemorar",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.14.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "15",
+          "title": "O Que Fazer para Que Deus nos Abençoe",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.15.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "16",
+          "title": "Descubra Quem Você É para Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.16.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "17",
+          "title": "Aprenda a Fazer Esta Declaração",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.17.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "18",
+          "title": "A vontade de Deus para sua vida",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.18.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "19",
+          "title": "Acredite Nesta Palavra",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.19.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "20",
+          "title": "O Que Precisamos Conhecer",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.20.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "21",
+          "title": "Não Deixe Isso Acontecer",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.21.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "22",
+          "title": "Entenda o Que Leva Deus a Falar Conosco",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.22.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "23",
+          "title": "O Que Deus Fará por Você",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.23.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "24",
+          "title": "A Quem Devemos Desejar",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.24.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "25",
+          "title": "O Que Estamos Fazendo",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.25.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "26",
+          "title": "Veja o que Deus faz com quem é reto",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.26.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "27",
+          "title": "O que Deus quer nos ensinar",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.27.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "28",
+          "title": "Algo que não podemos deixar de fazer",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.28.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "29",
+          "title": "Conheça o verdadeiro Deus",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.29.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "30",
+          "title": "Uma Mensagem para quem quer vencer",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.30.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "31",
+          "title": "Nunca mais se esqueça disso",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/SAF201912.31.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        }
+      ]
+    },
+    {
       "id": 3,
       "title": "Ministrações",
       "artist": "Jaime de Amorim",
