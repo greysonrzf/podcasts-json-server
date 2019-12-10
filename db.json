@@ -996,9 +996,9 @@
   "gracefy": [
     {
       "id": 1,
-      "title": "Show da Fé",
-      "artist": "RR Soares",
-      "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
+      "title": "Joyce Meyer",
+      "artist": "Ministério Joyce Meyer",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png",
       "tracks": [
         {
           "id": "5193",
@@ -1011,8 +1011,8 @@
     },
     {
       "id": 3,
-      "title": "Ministrações",
-      "artist": "Jaime de Amorim",
+      "title": "RR Soares",
+      "artist": "Programa Show da Fé",
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
@@ -1026,9 +1026,9 @@
     },
     {
       "id": 4,
-      "title": "Adoração",
-      "artist": "Culto Ao Vivo",
-      "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
+      "title": "Jaime de Amorim Campos",
+      "artist": "Igreja Internacional da Graça de Deus",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png",
       "tracks": [
         {
           "id": "27",
@@ -1041,9 +1041,9 @@
     },
     {
       "id": 5,
-      "title": "Night4Jesus",
-      "artist": "Culto ao Vivo",
-      "cover": "https://www.bestrongest.com.br/podcasts/n4j/n4j-album-cover.jpg",
+      "title": "Paulo Junior",
+      "artist": "Igreja Aliança do Calvário",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png",
       "tracks": [
         {
           "id": "120",
@@ -1056,8 +1056,38 @@
     },
     {
       "id": 6,
-      "title": "Curso Fé",
-      "artist": "RR Soares",
+      "title": "Augustus Nicodemus Lopes",
+      "artist": "PIPR",
+      "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Determinação",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Rodolfo Abrantes",
+      "artist": "Missões Rodolfo Abrantes",
+      "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Determinação",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Luciano Subirá",
+      "artist": "Missões Luciano Subirá",
       "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
       "tracks": [
         {
