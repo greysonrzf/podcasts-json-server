@@ -1067,6 +1067,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "28",
+          "title": "Sou Teu Meu Deus",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sou_teu_meu_deus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "27",
           "title": "Faz Tudo Novo",
           "artist": "Culto Ao Vivo",
