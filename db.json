@@ -1734,13 +1734,27 @@
     },
     {
       "id": 4,
-      "title": "Jaime de Amorim Campos",
-      "artist": "Igreja Internacional da Graça de Deus",
+      "title": "Jaime de Amorim",
+      "artist": "Igreja da Graça",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png",
       "tracks": [
         {
           "id": "27",
           "title": "Faz Tudo Novo",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+        },
+        {
+          "id": "27",
+          "title": "Faz Tudo Novo Novamente",
+          "artist": "Culto Ao Vivo",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+        },
+        {
+          "id": "27",
+          "title": "Faz Tudo Novo Mais Uma Vez",
           "artist": "Culto Ao Vivo",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
@@ -1764,7 +1778,7 @@
     },
     {
       "id": 6,
-      "title": "Augustus Nicodemus Lopes",
+      "title": "Augustus Nicodemus",
       "artist": "PIPR",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png",
       "tracks": [
