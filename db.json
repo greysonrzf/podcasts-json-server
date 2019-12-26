@@ -2419,11 +2419,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
-          "id": "120",
-          "title": "Amadurecimento espiritual",
-          "artist": "Culto ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/N4J23112019.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+          "id": "23122019",
+          "title": "O toque do diabo",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/PJ23122019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
         }
       ]
     },
@@ -2477,6 +2477,21 @@
       "title": "Augustus Nicodemus",
       "artist": "Igreja Presbiteriana",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Determinação",
+          "artist": "RR Soares",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Douglas Gonçalves",
+      "artist": "JesusCopy",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
         {
           "id": "1",
