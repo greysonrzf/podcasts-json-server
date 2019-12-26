@@ -2434,7 +2434,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Rodolfo Abrantes",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/RA.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png"
         }
       ]
     },
@@ -2445,7 +2449,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Luciano Subirá",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/LS.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png"
         }
       ]
     },
@@ -2456,7 +2464,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Fernandinho",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/FE.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png"
         }
       ]
     },
@@ -2467,7 +2479,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Augustus Nicodemus",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/AN.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png"
         }
       ]
     },
@@ -2478,7 +2494,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "JesusCopy",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/DG.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.png"
         }
       ]
     },
@@ -2489,7 +2509,11 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/hernandes.jpg",
       "tracks": [
         {
-
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Hernandes Dias",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/HD.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/hernandes.png"
         }
       ]
     }
