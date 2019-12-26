@@ -1709,11 +1709,67 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png",
       "tracks": [
         {
-          "id": "5193",
-          "title": "Deus quer usar você",
-          "artist": "RR Soares",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5193.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+          "id": "1185.3",
+          "title": "Vivendo Maravilhado - Parte 1",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1185_3.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1185.4",
+          "title": "Vivendo Maravilhado - Parte 2",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1185_4.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1184.5",
+          "title": "Seja Agressivo",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1184_5.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1184.2",
+          "title": "O que é pecado",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1184_2.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1183.3",
+          "title": "É hora de descer da cerca - Parte 1",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1183_3.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1183.4",
+          "title": "É hora de descer da cerca - Parte 2",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1183_4.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1183.1",
+          "title": "O que você pensa",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1183_1.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1181.4",
+          "title": "Triunfo sobre a oposição - Parte 1",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1181_4.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
+        },
+        {
+          "id": "1181.5",
+          "title": "Triunfo sobre a oposição - Parte 2",
+          "artist": "Desfrutando a vida diária",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/joycemeyer/files/1181_5.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png"
         }
       ]
     },
@@ -2131,25 +2187,228 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/jaymedeamorim.png",
       "tracks": [
         {
-          "id": "27",
-          "title": "Faz Tudo Novo",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+          "id": "32",
+          "title": "Ouça o conselho do Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22122019.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "31",
+          "title": "Conheça o Espírito Santo",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15122019.0900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "30",
+          "title": "Não seja precipitado",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG02122019.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "29",
+          "title": "Deus nos faz esquecer",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01112019.1930.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "28",
+          "title": "A sinceridade agrada a Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23082015.1830.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
         {
           "id": "27",
-          "title": "Faz Tudo Novo Novamente",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+          "title": "Jesus vê a sua fé",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG28062015.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
         {
-          "id": "27",
-          "title": "Faz Tudo Novo Mais Uma Vez",
-          "artist": "Culto Ao Vivo",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/gracefy-icon.png"
+          "id": "26",
+          "title": "Não fique parado na vida",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23112014.0001.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "25",
+          "title": "Deus conhece a nossa estrutura",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23112013.0001.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "24",
+          "title": "Vença a anciedade",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23072012.0001.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "23",
+          "title": "Jesus quer ressuscitar seus sonhos",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG18082019.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "22",
+          "title": "Não use de engano",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01082019.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "21",
+          "title": "Não ande na carne",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01042015.0030.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "20",
+          "title": "Seja guerreiro",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG05072017.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "19",
+          "title": "Não enfraqueça na dificuldade",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG30032017.1930.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "18",
+          "title": "Esteja com Cristo todos os dias",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG30092017.2000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "17",
+          "title": "Não fique longe de Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG05092017.1400.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "16",
+          "title": "Entregue teu coração ao Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG08112015.2000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "15",
+          "title": "Seja dependente do Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15102017.1630.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "14",
+          "title": "Prepare o seu coração",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG29112015.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "13",
+          "title": "Vencendo as tentações",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG25102015.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "12",
+          "title": "Busque andar na palavra",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG10012016.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "11",
+          "title": "Quem teme Deus não teme o mal",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG31012016.1500.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "10",
+          "title": "Peça sempre direção ao Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG06032016.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "9",
+          "title": "Busque ter confiança no Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG13032016.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "8",
+          "title": "Deixe Deus falar ao seu coração",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG27032017.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "7",
+          "title": "Siga a luz",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG14052017.2000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "6",
+          "title": "A Justiça de Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22042017.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "5",
+          "title": "Viva na liberdade de Cristo",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG08112015.1600.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "4",
+          "title": "Permita Deus entrar na sua vida",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG22102017.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "3",
+          "title": "A importancia de Temer a Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG26032017.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "2",
+          "title": "Para Deus nada é impossível",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG21072019.1400.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "1",
+          "title": "Busque o melhor de Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG19112017.1900.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         }
       ]
     },
