@@ -2435,9 +2435,9 @@
       "tracks": [
         {
           "id": "1",
-          "title": "Em breve...",
+          "title": "A recompensa de entregar tudo",
           "artist": "Rodolfo Abrantes",
-          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/RA.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/rodolfo/files/ra_a-recompensa.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png"
         }
       ]
@@ -2521,6 +2521,13 @@
       "artist": "JesusCopy",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
+        {
+          "id": "3",
+          "title": "Cansei de ser eu",
+          "artist": "JesusCopy",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/douglasg/files/dg_cansei-de-ser-eu.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.png"
+        },
         {
           "id": "2",
           "title": "Não saia do Brasil",
