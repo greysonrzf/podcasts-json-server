@@ -2529,7 +2529,7 @@
     {
       "id": 6,
       "title": "Rodolfo Abrantes",
-      "artist": "Missões Rodolfo Abrantes",
+      "artist": "Missões",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png",
       "tracks": [
         {
@@ -2565,7 +2565,7 @@
     {
       "id": 7,
       "title": "Luciano Subirá",
-      "artist": "Missões Luciano Subirá",
+      "artist": "Missões",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png",
       "tracks": [
         {
@@ -2676,6 +2676,21 @@
           "artist": "Hernandes Dias",
           "url": "https://www.bestrongest.com.br/podcasts/n4j/files/HD.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/hernandes.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Silas Malafaia",
+      "artist": "Missões",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.jpg",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Silas Malafaia",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/SM.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.png"
         }
       ]
     }
