@@ -1610,6 +1610,21 @@
     },
     {
       "id": 6,
+      "title": "Mulheres Que Vencem",
+      "artist": "IIGD Sede",
+      "cover": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg",
+      "tracks": [
+        {
+          "id": "28122019",
+          "title": "A graça e o poder de Deus",
+          "artist": "Mulheres Que Vencem",
+          "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV28122019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "title": "Curso Fé",
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
