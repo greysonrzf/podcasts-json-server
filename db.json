@@ -7,402 +7,465 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5205",
+          "title": "Livre-se da iniquidade",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5205.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5204",
+          "title": "A alegria contínua dos salvos",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5204.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5203",
+          "title": "O clamor que Deus atende",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5203.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5202",
+          "title": "Deus quer dar vida a você",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5202.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5201",
+          "title": "A lei perfeita da liberdade",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5201.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5200",
+          "title": "Refugie-se em Deus",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5200.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5199",
+          "title": "Coloque sua vida diante de Deus",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5199.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5198",
+          "title": "Tenha urgência no seu clamor",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5198.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5197",
           "title": "A bênção de José",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5197.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5196",
           "title": "Prepare-se para sua missão",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5196.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5195",
           "title": "Torne-se uma bênção",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5195.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5194",
           "title": "O poder do Evangelho",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5194.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5193",
           "title": "Deus quer usar você",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5193.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5192",
           "title": "Cresça na fé",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5192.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5191",
           "title": "Viva na presença de Jesus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5191.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5190",
           "title": "Faça a vontade de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5190.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5189",
           "title": "Desenvolva a sua fé",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5189.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5188",
           "title": "Faça a obra do Senhor",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5188.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5187",
           "title": "O poder da Palavra de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5187.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5186",
           "title": "Deus da consolação",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5186.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5185",
           "title": "Seja destemido",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5185.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5184",
           "title": "A nossa arma é a Palavra",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5184.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5183",
           "title": "A Palavra de Deus lhe dará vitória",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5183.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5182",
           "title": "Vença o mal com a Palavra de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5182.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5181",
           "title": "Em Deus somos vitoriosos",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5181.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5180",
           "title": "Deus está preparando você",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5180.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5179",
           "title": "Seja ousado na fé",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5179.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5178",
           "title": "Você precisa ser corajoso",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5178.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5177",
           "title": "Coloque sua fé em ação",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5177.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5176",
           "title": "Fique firme no Senhor",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5176.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5175",
           "title": "Coloque o poder de Deus em ação",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5175.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5174",
           "title": "Creia com esperança",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5174.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5173",
           "title": "A nossa posição no Reino de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5173.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5172",
           "title": "Firmados no Reino de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5172.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5171",
           "title": "O trono de Jesus é eterno",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5171.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5170",
           "title": "O Reino do Senhor jamais terá fim",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5170.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5169",
           "title": "Jesus deu autoridade a você",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5169.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5168",
           "title": "Viva de acordo com a Palavra",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5168.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5167",
           "title": "A sua sorte é o Senhor",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5167.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5166",
           "title": "O que está faltando para você?",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5166.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5165",
           "title": "Há salvação no Senhor Jesus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5165.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5164",
           "title": "A Palavra de Jesus liberta",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5164.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5163",
           "title": "O que Deus fala produz mudança",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5163.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5162",
           "title": "O poder transformador da Palavra",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5162.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5161",
           "title": "A recompensa dos sábios",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5161.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5160",
           "title": "O juízo da absolvição",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5160.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5159",
           "title": "Aprenda com Jesus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5159.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5158",
           "title": "Creia no Filho de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5158.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5157",
           "title": "Servindo a Deus com santidade",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5157.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5156",
           "title": "Seja um servo obediente de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5156.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5155",
           "title": "Jesus tem a solução",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5155.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5154",
           "title": "Trate Jesus como Senhor",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5154.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5153",
           "title": "Vá e não peque mais",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5153.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5152",
           "title": "O Espírito Santo é o nosso Consolador",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5152.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5151",
           "title": "Determine sua bênção",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5151.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5150",
           "title": "Venha a mim e beba",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5150.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5149",
           "title": "Tome posse da sua terra",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5149.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5148",
           "title": "Busque a Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5148.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5147",
           "title": "Em Cristo somos inocentados",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5147.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5146",
           "title": "A terra da Promessa",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5146.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5145",
           "title": "Justificados por Jesus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5145.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5144",
           "title": "O Evangelho justifica o homem",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5144.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5143",
           "title": "Acredite no Senhor",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5143.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5142",
           "title": "O privilégio de servir a Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5142.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
           "id": "5141",
           "title": "Os dons de Deus",
-          "artist": "RR Soares",
+          "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5141.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5019",
+          "title": "Vença os seus inimigos",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         }
       ]
@@ -1065,6 +1128,13 @@
       "artist": "Jaime de Amorim",
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
+        {
+          "id": "34",
+          "title": "Os 5 princípios para vencer na vida",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01012020.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
         {
           "id": "33",
           "title": "Nunca rejeite a palavra de Deus",
