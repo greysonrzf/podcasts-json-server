@@ -2292,7 +2292,7 @@
       "id": 4,
       "title": "Jaime de Amorim",
       "artist": "Igreja da Graça",
-      "color": "#27abd3",
+      "color": "#00BFFF",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/jaymedeamorim.png",
       "tracks": [
         {
@@ -2525,7 +2525,7 @@
       "id": 5,
       "title": "Paulo Junior",
       "artist": "Defesa do Evangelho",
-      "color": "#93e15e",
+      "color": "#32CD32",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
@@ -2541,7 +2541,7 @@
       "id": 6,
       "title": "Rodolfo Abrantes",
       "artist": "Missões",
-      "color": "#5e1ea1",
+      "color": "#4b0082",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png",
       "tracks": [
         {
@@ -2578,7 +2578,7 @@
       "id": 7,
       "title": "Luciano Subirá",
       "artist": "Missões",
-      "color": "#dc583f",
+      "color": "#708090",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png",
       "tracks": [
         {
@@ -2622,7 +2622,7 @@
       "id": 8,
       "title": "Fernandinho",
       "artist": "Missões",
-      "color": "#63e295",
+      "color": "#00ffff",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png",
       "tracks": [
         {
@@ -2638,7 +2638,7 @@
       "id": 9,
       "title": "Augustus Nicodemus",
       "artist": "Igreja Presbiteriana",
-      "color": "#b62141",
+      "color": "#b22222",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png",
       "tracks": [
         {
@@ -2654,7 +2654,7 @@
       "id": 10,
       "title": "Douglas Gonçalves",
       "artist": "JesusCopy",
-      "color": "#ddaa44",
+      "color": "#ffff00",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
         {
@@ -2700,7 +2700,7 @@
       "id": 12,
       "title": "Silas Malafaia",
       "artist": "Ministério Vitória em Cristo",
-      "color": "#226813",
+      "color": "#FF7F50",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.jpg",
       "tracks": [
         {
@@ -2709,6 +2709,262 @@
           "artist": "Silas Malafaia",
           "url": "https://www.bestrongest.com.br/podcasts/n4j/files/SM.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.png"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Rafael Araujo",
+      "artist": "Adoração",
+      "color": "#00BFFF",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rafaelaraujo.png",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Em breve...",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/RJ.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/rafaelaraujo.png"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Marcio Alves",
+      "artist": "Adoração",
+      "color": "#8B008B",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg",
+      "tracks": [
+        {
+          "id": "31",
+          "title": "Águas de Siloé",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/aguas_de_siloe.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "30",
+          "title": "Sonhos de Deus",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sonhos_de_deus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "29",
+          "title": "Deus Vai Fazer",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_vai_fazer.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "28",
+          "title": "Sou Teu Meu Deus",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sou_teu_meu_deus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "27",
+          "title": "Faz Tudo Novo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "26",
+          "title": "Vem, Espírito Santo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_espirito_santo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "25",
+          "title": "Preciso de Ti",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/preciso_de_ti.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "24",
+          "title": "Sobre as Águas",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sobre_as_aguas.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "23",
+          "title": "Grande É o Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/grande_e_o_senhor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "22",
+          "title": "Sala do Trono",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sala_do_trono.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "21",
+          "title": "Faça Morada",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/faca_morada.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "20",
+          "title": "A Casa É Sua",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_casa_e_sua.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "19",
+          "title": "Há um lugar",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/ha_um_lugar.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "18",
+          "title": "Que Ele Cresça",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/que_ele_cresca.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "17",
+          "title": "Nada Além do Sangue",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/nada_alem_do_sangue.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "16",
+          "title": "Primeiro Amor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/primeiro_amor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "15",
+          "title": "Eu Navegarei",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/eu_navegarei.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "14",
+          "title": "Sonda-me, Usa-me",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/sonda-me_usa-me.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "13",
+          "title": "Vem Agora Espírito Santo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_agora_espirito_santo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "12",
+          "title": "Atrai o Meu Coração",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/atrai_o_meu_coracao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "11",
+          "title": "A Jesus seguirei",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_jesus_seguirei.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Deus Pode Tudo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_pode_tudo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Mostra-me Tua Glória",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/mostra-me_tua_gloria.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Consagração",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/consagracao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "7",
+          "title": "Se Eu Me Humilhar",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/se_eu_me_humilhar.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "6",
+          "title": "Junto a Ti",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/junto_a_ti.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "5",
+          "title": "Em Tua Presença",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/em_tua_presenca.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Deixa-me Tocar",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/deixa-me_tocar.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "3b",
+          "title": "Renova-me",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/renova-me.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "3",
+          "title": "Rei da Glória",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/rei_da_gloria.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "2",
+          "title": "Venha o Teu Reino",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/venha_o_teu_reino.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "1",
+          "title": "Tua Graça Me Basta",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/tua_graca_me_basta.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
+        },
+        {
+          "id": "0",
+          "title": "Ninguém explica Deus",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/ninguem_explica_Deus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/marcioalves.jpg"
         }
       ]
     }
