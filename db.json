@@ -1763,6 +1763,7 @@
       "id": 1,
       "title": "Joyce Meyer",
       "artist": "Ministério Joyce Meyer",
+      "color": "#d52cd8",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png",
       "tracks": [
         {
@@ -1883,6 +1884,7 @@
       "id": 3,
       "title": "RR Soares",
       "artist": "Show da Fé",
+      "color": "#2750d5",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rrsoares.png",
       "tracks": [
         {
@@ -2290,6 +2292,7 @@
       "id": 4,
       "title": "Jaime de Amorim",
       "artist": "Igreja da Graça",
+      "color": "#27abd3",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/jaymedeamorim.png",
       "tracks": [
         {
@@ -2522,6 +2525,7 @@
       "id": 5,
       "title": "Paulo Junior",
       "artist": "Defesa do Evangelho",
+      "color": "#93e15e",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
@@ -2537,6 +2541,7 @@
       "id": 6,
       "title": "Rodolfo Abrantes",
       "artist": "Missões",
+      "color": "#5e1ea1",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png",
       "tracks": [
         {
@@ -2573,6 +2578,7 @@
       "id": 7,
       "title": "Luciano Subirá",
       "artist": "Missões",
+      "color": "#dc583f",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png",
       "tracks": [
         {
@@ -2616,6 +2622,7 @@
       "id": 8,
       "title": "Fernandinho",
       "artist": "Missões",
+      "color": "#63e295",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png",
       "tracks": [
         {
@@ -2631,6 +2638,7 @@
       "id": 9,
       "title": "Augustus Nicodemus",
       "artist": "Igreja Presbiteriana",
+      "color": "#b62141",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png",
       "tracks": [
         {
@@ -2646,6 +2654,7 @@
       "id": 10,
       "title": "Douglas Gonçalves",
       "artist": "JesusCopy",
+      "color": "#ddaa44",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
         {
@@ -2675,6 +2684,7 @@
       "id": 11,
       "title": "Hernandes Dias",
       "artist": "Missões",
+      "color": "#8b86e9",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/hernandes.jpg",
       "tracks": [
         {
@@ -2690,6 +2700,7 @@
       "id": 12,
       "title": "Silas Malafaia",
       "artist": "Ministério Vitória em Cristo",
+      "color": "#226813",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.jpg",
       "tracks": [
         {
