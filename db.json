@@ -1718,6 +1718,27 @@
           "artist": "Mulheres Que Vencem",
           "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV02102019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
+        },
+        {
+          "id": "20102018",
+          "title": "Busque ser aprovada",
+          "artist": "Mulheres Que Vencem",
+          "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV20102018.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
+        },
+        {
+          "id": "04122018",
+          "title": "Alegria completa",
+          "artist": "Mulheres Que Vencem",
+          "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV04122018.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
+        },
+        {
+          "id": "08012019",
+          "title": "Tenha um encontro com Deus",
+          "artist": "Mulheres Que Vencem",
+          "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV08012019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
         }
       ]
     },
