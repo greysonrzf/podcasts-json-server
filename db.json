@@ -1895,7 +1895,7 @@
     {
       "id": 1,
       "title": "Joyce Meyer",
-      "artist": "Ministério Joyce Meyer",
+      "artist": "Mensagens",
       "color": "#d52cd8",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/joycemeyer.png",
       "tracks": [
@@ -2016,7 +2016,7 @@
     {
       "id": 3,
       "title": "RR Soares",
-      "artist": "Show da Fé",
+      "artist": "Mensagens",
       "color": "#2750d5",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rrsoares.png",
       "tracks": [
@@ -2424,7 +2424,7 @@
     {
       "id": 4,
       "title": "Jaime de Amorim",
-      "artist": "Igreja da Graça",
+      "artist": "Mensagens",
       "color": "#00BFFF",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/jaymedeamorim.png",
       "tracks": [
@@ -2657,7 +2657,7 @@
     {
       "id": 5,
       "title": "Paulo Junior",
-      "artist": "Defesa do Evangelho",
+      "artist": "Mensagens",
       "color": "#32CD32",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
@@ -2673,7 +2673,7 @@
     {
       "id": 6,
       "title": "Rodolfo Abrantes",
-      "artist": "Missões",
+      "artist": "Mensagens",
       "color": "#4b0082",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rodolfo.png",
       "tracks": [
@@ -2710,7 +2710,7 @@
     {
       "id": 7,
       "title": "Luciano Subirá",
-      "artist": "Missões",
+      "artist": "Mensagens",
       "color": "#708090",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/lucianosubira.png",
       "tracks": [
@@ -2754,7 +2754,7 @@
     {
       "id": 8,
       "title": "Fernandinho",
-      "artist": "Missões",
+      "artist": "Mensagens",
       "color": "#00ffff",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png",
       "tracks": [
@@ -2770,7 +2770,7 @@
     {
       "id": 9,
       "title": "Augustus Nicodemus",
-      "artist": "Igreja Presbiteriana",
+      "artist": "Mensagens",
       "color": "#b22222",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/anicodemus.png",
       "tracks": [
@@ -2786,7 +2786,7 @@
     {
       "id": 10,
       "title": "Douglas Gonçalves",
-      "artist": "JesusCopy",
+      "artist": "Mensagens",
       "color": "#ffff00",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
@@ -2816,7 +2816,7 @@
     {
       "id": 11,
       "title": "Hernandes Dias",
-      "artist": "Missões",
+      "artist": "Mensagens",
       "color": "#8b86e9",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/hernandes.jpg",
       "tracks": [
@@ -2832,7 +2832,7 @@
     {
       "id": 12,
       "title": "Silas Malafaia",
-      "artist": "Ministério Vitória em Cristo",
+      "artist": "Mensagens",
       "color": "#FF7F50",
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/silas.jpg",
       "tracks": [
