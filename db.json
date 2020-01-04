@@ -2676,10 +2676,45 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
-          "id": "23122019",
+          "id": "6",
+          "title": "Servindo a Deus com motivações erradas",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/motivacoes-erradas.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "5",
+          "title": "Pecadinhos",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/pecadinhos.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "4",
+          "title": "Porque minha fé é tão fraca",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/porque-minha-fe.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "3",
+          "title": "Por trás do Sorriso você Esconde um Câncer",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/por-tras-desse-sorriso.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "2",
+          "title": "Pecados Ocultos e Suas Consequências",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/pecados-ocultos.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "1",
           "title": "O toque do diabo",
           "artist": "Defesa do Evangelho",
-          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/PJ23122019.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/o-toque-do-diabo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
         }
       ]
