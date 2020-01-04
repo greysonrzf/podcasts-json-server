@@ -1800,6 +1800,28 @@
     },
     {
       "id": 7,
+      "title": "Mensagens Clássicas",
+      "artist": "RR Soares",
+      "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
+      "tracks": [
+        {
+          "id": "2",
+          "title": "Sem lenha o fogo se apagará",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/sem-lenha-o-fogo-se-apagara.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "1",
+          "title": "Os Ardis de Satanás",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/os-ardis-de-satanas.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
       "title": "Curso Fé",
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png",
@@ -1886,20 +1908,6 @@
           "title": "Realizando a obra de Deus",
           "artist": "Curso Fé",
           "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/cursofe12.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "13",
-          "title": "Sem lenha o fogo se apagará",
-          "artist": "Bônus Mensagens Clássicas",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/sem-lenha-o-fogo-se-apagara.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
-        },
-        {
-          "id": "14",
-          "title": "Os Ardis de Satanás",
-          "artist": "Bônus Mensagens Clássicas",
-          "url": "https://www.bestrongest.com.br/podcasts/cursofe/files/os-ardis-de-satanas.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/cursofe/cursofe-album-cover.png"
         }
       ]
