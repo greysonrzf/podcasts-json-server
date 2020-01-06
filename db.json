@@ -2844,12 +2844,19 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png",
       "tracks": [
         {
-          "id": "1",
-          "title": "Em breve...",
+          "id": "2",
+          "title": "Renuncie as vontades do mundo",
           "artist": "Fernandinho",
-          "url": "https://www.bestrongest.com.br/podcasts/n4j/files/FE.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/fernandinho/files/renuncie-as-vontades-do-mundo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png"
-        }
+        },
+        {
+          "id": "1",
+          "title": "Vento Impetuoso/Eu Navegarei - Refrão",
+          "artist": "Fernandinho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/fernandinho/files/vento-impetuoso-eu-navegarei-refrao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/fernandinho.png"
+        },
       ]
     },
     {
