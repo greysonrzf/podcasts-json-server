@@ -2698,6 +2698,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
+          "id": "10",
+          "title": "Apocalipse é o livro",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/apocalipse-e-o-livro.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
+          "id": "9",
+          "title": "Onde estamos errando",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/onde-estamos-errando.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
           "id": "8",
           "title": "A esposa perfeita",
           "artist": "Defesa do Evangelho",
