@@ -2911,6 +2911,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.jpg",
       "tracks": [
         {
+          "id": "4",
+          "title": "7 passos na luta contra o pecado",
+          "artist": "JesusCopy",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/douglasg/files/7-passos-na-luta-contra-pecado.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/douglasg.png"
+        },
+        {
           "id": "3",
           "title": "Cansei de ser eu",
           "artist": "JesusCopy",
