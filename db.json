@@ -1805,6 +1805,27 @@
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
         {
+          "id": "5",
+          "title": "Quatro pontos da mensagem de Jesus",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/quatro-pontos-da-mensagem-de-jesus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "4",
+          "title": "Jesus, a verdadeira alegria",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/jesus-a-verdadeira-alegria.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "3",
+          "title": "A cura do homem da mão ressequida",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/a-cura-da-mao-ressequida.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
           "id": "2",
           "title": "Sem lenha o fogo se apagará",
           "artist": "Mensagens Clássicas",
