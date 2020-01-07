@@ -2698,6 +2698,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png",
       "tracks": [
         {
+          "id": "12",
+          "title": "Como vencer o medo",
+          "artist": "Defesa do Evangelho",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/paulojunior/files/como-vencer-o-medo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/paulojunior.png"
+        },
+        {
           "id": "11",
           "title": "Como passar o dia com Deus",
           "artist": "Defesa do Evangelho",
