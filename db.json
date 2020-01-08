@@ -1805,6 +1805,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
         {
+          "id": "6",
+          "title": "Tire o tropeço para o Senhor operar",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/tire-o-tropeco.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
           "id": "5",
           "title": "Quatro pontos da mensagem de Jesus",
           "artist": "Mensagens Clássicas",
