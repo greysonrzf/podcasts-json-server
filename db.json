@@ -1441,7 +1441,7 @@
     {
       "id": 4,
       "title": "Adoração",
-      "artist": "Culto Ao Vivo",
+      "artist": "IIGD Sede",
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
@@ -1680,7 +1680,7 @@
     {
       "id": 5,
       "title": "Night4Jesus",
-      "artist": "Culto ao Vivo",
+      "artist": "IIGD Sede",
       "cover": "https://www.bestrongest.com.br/podcasts/n4j/n4j-album-cover.jpg",
       "tracks": [
         {
@@ -1979,6 +1979,34 @@
           "title": "A Maior reunião de todos os tempos - 3/7",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-37.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "4",
+          "title": "A Maior reunião de todos os tempos - 4/7",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-47.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "5",
+          "title": "A Maior reunião de todos os tempos - 5/7",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-57.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "6",
+          "title": "A Maior reunião de todos os tempos - 6/7",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-67.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "7",
+          "title": "A Maior reunião de todos os tempos - 7/7",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-77.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         }
       ]
