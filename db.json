@@ -1185,6 +1185,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "37",
+          "title": "O Espírito Santo convence do pecado",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG12012020.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "36",
           "title": "Guarde o teu coração",
           "artist": "Jaime de Amorim",
