@@ -2934,10 +2934,17 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg",
       "tracks": [
         {
-          "id": "2",
+          "id": "3",
           "title": "Igreja Dentro da Igreja",
           "artist": "Carlos Machado",
           "url": "https://www.bestrongest.com.br/podcasts/gracefy/carlosmachado/files/igreja-dentro-da-igreja.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg"
+        },
+        {
+          "id": "2",
+          "title": "Quem é o próximo",
+          "artist": "Carlos Machado",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/carlosmachado/files/quem-e-o-proximo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg"
         },
         {
