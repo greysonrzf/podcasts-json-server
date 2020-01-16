@@ -2934,6 +2934,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg",
       "tracks": [
         {
+          "id": "2",
+          "title": "Igreja Dentro da Igreja",
+          "artist": "Carlos Machado",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/carlosmachado/files/igreja-dentro-da-igreja.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg"
+        },
+        {
           "id": "1",
           "title": "Amigo de Pecadores",
           "artist": "Carlos Machado",
@@ -2943,7 +2950,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Luciano Subirá",
       "artist": "Mensagens",
       "color": "#708090",
@@ -2987,7 +2994,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Fernandinho",
       "artist": "Mensagens",
       "color": "#00ffff",
@@ -3010,7 +3017,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Augustus Nicodemus",
       "artist": "Mensagens",
       "color": "#b22222",
@@ -3033,7 +3040,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Douglas Gonçalves",
       "artist": "Mensagens",
       "color": "#ffff00",
@@ -3070,7 +3077,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Hernandes Dias",
       "artist": "Mensagens",
       "color": "#8b86e9",
@@ -3086,7 +3093,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Silas Malafaia",
       "artist": "Mensagens",
       "color": "#FF7F50",
@@ -3102,7 +3109,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Rafael Araujo",
       "artist": "Adoração",
       "color": "#00BFFF",
@@ -3181,7 +3188,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Marcio Alves",
       "artist": "Adoração",
       "color": "#8B008B",
