@@ -2928,6 +2928,22 @@
     },
     {
       "id": 7,
+      "title": "Carlos Machado",
+      "artist": "Mensagens",
+      "color": "#4b0082",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg",
+      "tracks": [
+        {
+          "id": "1",
+          "title": "Amigo de Pecadores",
+          "artist": "Carlos Machado",
+          "url": "https://www.bestrongest.com.br/podcasts/gracefy/carlosmachado/files/amigo-de-pecadores.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/gracefy/img/carlosmachado.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "title": "Luciano Subirá",
       "artist": "Mensagens",
       "color": "#708090",
