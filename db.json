@@ -1854,6 +1854,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
         {
+          "id": "8",
+          "title": "A renúncia de Moisés",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/a-renuncia-de-moises.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "7",
+          "title": "O paralítico de Cafarnaum",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/o-paralitico-de-cafarnaum.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
           "id": "6",
           "title": "Tire o tropeço para o Senhor operar",
           "artist": "Mensagens Clássicas",
