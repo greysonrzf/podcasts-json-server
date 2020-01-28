@@ -1213,8 +1213,22 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "44",
+          "title": "Não fique com nada que Deus condena",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG14072019.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "43",
+          "title": "Siga Jesus de perto",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01092019.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "42",
-          "title": "Ande na Luz",
+          "title": "Ande na luz",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG04082019.0000.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
