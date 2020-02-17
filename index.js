@@ -6,5 +6,5 @@ var port = Number(process.env.PORT || 3333);
 server.use(middlewares);
 server.use(router);
 server.listen(port, function () {
-    console.log('JSON Server is running')
+    console.log('JSON Server is running man!!!')
 });
