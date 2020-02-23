@@ -7,6 +7,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5287",
+          "title": "Permaneça na santidade",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5287.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5286",
+          "title": "Frutifique",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5286.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5285",
           "title": "Vença pela Palavra",
           "artist": "Show da Fé",
@@ -102,6 +116,13 @@
           "title": "A instrução do Senhor",
           "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5269.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5268",
+          "title": "Você tem valor",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5268.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
@@ -1613,233 +1634,240 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "32",
+          "title": "Lembra, Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/lembra_senhor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "31",
           "title": "Águas de Siloé",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/aguas_de_siloe.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "30",
           "title": "Sonhos de Deus",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/sonhos_de_deus.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "29",
           "title": "Deus Vai Fazer",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_vai_fazer.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "28",
           "title": "Sou Teu Meu Deus",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/sou_teu_meu_deus.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "27",
           "title": "Faz Tudo Novo",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "26",
           "title": "Vem, Espírito Santo",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_espirito_santo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "25",
           "title": "Preciso de Ti",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/preciso_de_ti.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "24",
           "title": "Sobre as Águas",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/sobre_as_aguas.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "23",
           "title": "Grande É o Senhor",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/grande_e_o_senhor.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "22",
           "title": "Sala do Trono",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/sala_do_trono.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "21",
           "title": "Faça Morada",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/faca_morada.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "20",
           "title": "A Casa É Sua",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_casa_e_sua.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "19",
           "title": "Há um lugar",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/ha_um_lugar.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "18",
           "title": "Que Ele Cresça",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/que_ele_cresca.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "17",
           "title": "Nada Além do Sangue",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/nada_alem_do_sangue.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "16",
           "title": "Primeiro Amor",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/primeiro_amor.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "15",
           "title": "Eu Navegarei",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/eu_navegarei.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "14",
           "title": "Sonda-me, Usa-me",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/sonda-me_usa-me.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "13",
           "title": "Vem Agora Espírito Santo",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_agora_espirito_santo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "12",
           "title": "Atrai o Meu Coração",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/atrai_o_meu_coracao.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "11",
           "title": "A Jesus seguirei",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/a_jesus_seguirei.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "10",
           "title": "Deus Pode Tudo",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/deus_pode_tudo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "9",
           "title": "Mostra-me Tua Glória",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/mostra-me_tua_gloria.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "8",
           "title": "Consagração",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/consagracao.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "7",
           "title": "Se Eu Me Humilhar",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/se_eu_me_humilhar.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "6",
           "title": "Junto a Ti",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/junto_a_ti.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "5",
           "title": "Em Tua Presença",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/em_tua_presenca.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "4",
           "title": "Deixa-me Tocar",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/deixa-me_tocar.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "3b",
           "title": "Renova-me",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/renova-me.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "3",
           "title": "Rei da Glória",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/rei_da_gloria.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "2",
           "title": "Venha o Teu Reino",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/venha_o_teu_reino.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "1",
           "title": "Tua Graça Me Basta",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/tua_graca_me_basta.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
           "id": "0",
           "title": "Ninguém explica Deus",
-          "artist": "Culto Ao Vivo",
+          "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/ninguem_explica_Deus.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         }
@@ -1986,6 +2014,13 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "9",
+          "title": "A chamada de Josué",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/a-chamada-de-josue.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "8",
           "title": "A renúncia de Moisés",
