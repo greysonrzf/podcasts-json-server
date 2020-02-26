@@ -7,6 +7,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5289",
+          "title": "Seja um sacerdote",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5289.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5288",
+          "title": "Deus quer lhe abençoar",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5288.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5287",
           "title": "Permaneça na santidade",
           "artist": "Show da Fé",
@@ -60,6 +74,13 @@
           "title": "Não aceite o pecado",
           "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5280.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5277",
+          "title": "Ocupe o seu lugar em Cristo",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5277.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
@@ -130,6 +151,13 @@
           "title": "Entre no Reino de Deus",
           "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5267.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5266",
+          "title": "Receba a unção de Deus",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5266.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
@@ -652,646 +680,646 @@
       "cover": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg",
       "tracks": [
         {
-          "id": "1",
+          "id": "2019121",
           "title": "Aprenda Como Ser Usado por Deus",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.01.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "2",
+          "id": "2019122",
           "title": "Nunca Mais Perca Batalhas",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.02.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "3",
+          "id": "2019123",
           "title": "Como Agir Diante das Lutas",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.03.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "4",
+          "id": "2019124",
           "title": "Descubra a Autoridade Que Você Tem",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.04.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "5",
+          "id": "2019125",
           "title": "Veja a Festa Que Está Preparada para Você",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.05.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "6",
+          "id": "2019126",
           "title": "Para de Mendigar",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.06.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "7",
+          "id": "2019127",
           "title": "Como Deus Deseja nos Guiar",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.07.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "8",
+          "id": "2019128",
           "title": "Nunca Deixe isso Acontecer",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.08.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "9",
+          "id": "2019129",
           "title": "Apesar de Ricos, Miseráveis",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.09.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "10",
+          "id": "20191210",
           "title": "Assuma Sua Posição Diante de Deus",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.10.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "11",
+          "id": "20191211",
           "title": "Um Conselho para os Servos de Deus",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.11.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "12",
+          "id": "20191212",
           "title": "Veja o Que Ganha Quem Pratica a Palavra",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.12.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "13",
+          "id": "20191213",
           "title": "Descubra o Que Deus Quer Fazer com Você",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.13.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "14",
+          "id": "20191214",
           "title": "Por Que Devemos Comemorar",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.14.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "15",
+          "id": "20191215",
           "title": "O Que Fazer para Que Deus nos Abençoe",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.15.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "16",
+          "id": "20191216",
           "title": "Descubra Quem Você É para Deus",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.16.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "17",
+          "id": "20191217",
           "title": "Aprenda a Fazer Esta Declaração",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.17.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "18",
+          "id": "20191218",
           "title": "A vontade de Deus para sua vida",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.18.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "19",
+          "id": "20191219",
           "title": "Acredite Nesta Palavra",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.19.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "20",
+          "id": "20191220",
           "title": "O Que Precisamos Conhecer",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.20.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "21",
+          "id": "20191221",
           "title": "Não Deixe Isso Acontecer",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.21.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "22",
+          "id": "20191222",
           "title": "Entenda o Que Leva Deus a Falar Conosco",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.22.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "23",
+          "id": "20191223",
           "title": "O Que Deus Fará por Você",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.23.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "24",
+          "id": "20191224",
           "title": "A Quem Devemos Desejar",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.24.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "25",
+          "id": "20191225",
           "title": "O Que Estamos Fazendo",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.25.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "26",
+          "id": "20191226",
           "title": "Veja o que Deus faz com quem é reto",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.26.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "27",
+          "id": "20191227",
           "title": "O que Deus quer nos ensinar",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.27.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "28",
+          "id": "20191228",
           "title": "Algo que não podemos deixar de fazer",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.28.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "29",
+          "id": "20191229",
           "title": "Conheça o verdadeiro Deus",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.29.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "30",
+          "id": "20191230",
           "title": "Uma Mensagem para quem quer vencer",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.30.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
-          "id": "31",
+          "id": "20191231",
           "title": "Nunca mais se esqueça disso",
-          "artist": "Semeando a Fé - Dezembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201912.31.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019111",
           "title": "Os Limites Que Deus Estabeleceu",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.01.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019112",
           "title": "Aprenda a Estar nas Portas de Sião",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.02.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019113",
           "title": "Qual É o Segredo para Ser Salvo",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.03.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019114",
           "title": "A Receita para Se Ter Paz",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.04.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019115",
           "title": "O Segredo para Dar Frutos na Velhice",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.05.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019116",
           "title": "O Benefício de Orar nas Madrugadas",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.06.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019117",
           "title": "Porque Você Não Pode Desistir",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.07.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019118",
           "title": "O Que Acontece Com os Inimigos de Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.08.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "2019119",
           "title": "Pare de Se Preocupar",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.09.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191110",
           "title": "O Que Devemos Pregar",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.10.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191111",
           "title": "Por Que Clamar a Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.11.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191112",
           "title": "Você Atrai a Presença de Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.12.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191113",
           "title": "Faça a Diferença Neste Mundo",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.13.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191114",
           "title": "O Que Fazer Quando For Perseguido",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.14.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191115",
           "title": "Uma Mensagem de Triunfo",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.15.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191116",
           "title": "Seja Inteligente e Aja Como Davi",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.16.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191117",
           "title": "O Que Não Devemos nos Esquecer",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.17.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191118",
           "title": "Deus o Quer Trazer de Volta",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.18.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191119",
           "title": "Você Se Sente Rejeitado por Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.19.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191120",
           "title": "É Preciso Saber Esperar em Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.20.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191121",
           "title": "Saiba o Que Devemos Anunciar",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.21.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191122",
           "title": "Aprenda a Exercer Seus Direitos",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.22.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191123",
           "title": "O Segredo para Ter Paz Com Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.23.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191124",
           "title": "Jamais Cometa Este Erro",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.24.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191125",
           "title": "Aprenda a Viver Desta Forma",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.25.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191126",
           "title": "O Que Fazer Quando Se Sentir Incapaz",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.26.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191127",
           "title": "Torne-Se um Especialista em Bênçãos",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.27.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191128",
           "title": "Você Pode Confessar Como Davi",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.28.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191129",
           "title": "Saiba Como Agradar a Deus",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.29.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191130",
           "title": "Conheça Aquele Que É Inigualável",
-          "artist": "Semeando a Fé - Novembro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201911.30.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191001",
           "title": "Duas Orientações Importantes",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.01.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191002",
           "title": "Descubra a Solução para os Problemas",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.02.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191003",
           "title": "Experimente Tudo o Que Deus Tem",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.03.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191004",
           "title": "Uma Oração Que Deve Ser Feita",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.04.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191005",
           "title": "Precisando de Socorro Ore Assim",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.05.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191006",
           "title": "O Que Acontece Com Quem Busca a Deus",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.06.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191007",
           "title": "Amizades",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.07.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191008",
           "title": "Entenda Quem Está Acima de Tudo",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.08.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191009",
           "title": "Você É uma Árvore Plantada por Deus",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.09.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191010",
           "title": "Uma Lição Que Não Podemos Esquecer",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.10.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191011",
           "title": "Quando Deus Contempla o Nosso Rosto",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.11.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191012",
           "title": "Descubra a Quem Deus Ouve",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.12.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191013",
           "title": "Quando É Que Agimos de Maneira Justa",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.13.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191014",
           "title": "Saiba o Que Fazer para Ter Sucesso",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.14.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191015",
           "title": "Deus Já Providenciou Tudo",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.15.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191016",
           "title": "O Que Acontece Com Quem Se Desvia",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.16.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191017",
           "title": "O Que Deus Faz Com Quem o Ama",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.17.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191018",
           "title": "Aprendendo a Ser de Deus",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.18.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191019",
           "title": "Por Que Deus nos Repreende",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.19.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191020",
           "title": "O Que Fez Davi Sempre Vitorioso",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.20.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191021",
           "title": "O Que Se Deve Falar a Respeito de Deus",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.21.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191022",
           "title": "A Quem a Vingança Pertence",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.22.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191023",
           "title": "Assuma Esta Missão",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.23.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191024",
           "title": "Qual Pedido Que Deus Não Nega",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.24.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191025",
           "title": "Afinal, Quem Tem Razão",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.25.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191026",
           "title": "Deus É o Nosso Sol",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.26.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191027",
           "title": "Como Ficar Livre da Angústia",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.27.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191028",
           "title": "Fora da Validade",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.28.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191029",
           "title": "Existe Impedimento para Você",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.29.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191030",
           "title": "Como Ver a Operação de Deus",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.30.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         },
         {
           "id": "20191031",
           "title": "O Que Fazer Com o Inimigo",
-          "artist": "Semeando a Fé - Outubro",
+          "artist": "Semeando a Fé",
           "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF201910.31.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
         }
