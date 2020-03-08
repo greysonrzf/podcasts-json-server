@@ -7,6 +7,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5295",
+          "title": "Deixe Jesus falar com você",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5295.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5294",
           "title": "Ouça a voz de Jesus",
           "artist": "Show da Fé",
@@ -1367,6 +1374,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "48",
+          "title": "A importancia de orar",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG10072018.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "47",
           "title": "Seja santo em tudo que você fizer",
           "artist": "Jaime de Amorim",
@@ -1703,6 +1717,13 @@
       "artist": "IIGD Sede",
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
+        {
+          "id": "33",
+          "title": "Grande é o Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/grande-e-o-senhor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
         {
           "id": "32",
           "title": "Lembra, Senhor",
@@ -2084,6 +2105,20 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "11",
+          "title": "Sem fé é impossível agradar a Deus",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/sem-fe-e-impossivel.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Como ser preservado dos laços da morte",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/como-ser-preservado.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "9",
           "title": "A chamada de Josué",
