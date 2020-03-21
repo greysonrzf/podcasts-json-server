@@ -7,6 +7,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5296",
+          "title": "Não brinque com o pecado",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5296.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5295",
           "title": "Deixe Jesus falar com você",
           "artist": "Show da Fé",
@@ -721,6 +728,223 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg",
       "tracks": [
+        {
+          "id": "202001.01",
+          "title": "Assuma Sua Posição em Cristo",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.02",
+          "title": "A Obra de Jesus nos Faz Vivos para Todo Sempre",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.02.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.03",
+          "title": "Só Existe Vida Plena Com Jesus no Coração",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.03.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.04",
+          "title": "Você Não Esteve Tão Próximo da Salvação",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.04.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.05",
+          "title": "Não Basta Ouvir, Mas Praticar a Palavra",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.05.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.06",
+          "title": "Você Tem Livre Acesso a Deus, Usufrua Disso",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.06.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.07",
+          "title": "As Bênçãos Não São Méritos Seu",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.07.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.08",
+          "title": "Ao Agir, Pense no Testemunho Que Dará ao Seu Irmão",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.08.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.09",
+          "title": "Reconheça Que Jesus É o Que Há de Melhor Nessa Vida",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.09.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.10",
+          "title": "Nunca Se Envergonhe do Evangelho",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.10.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.11",
+          "title": "A Sua Vida Serve de Honra ou Desonra",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.11.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.12",
+          "title": "Valorize a Obra de Jesus em Sua Vida",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.12.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.13",
+          "title": "Contente-Se Com Aquilo Que Deus Te Dá",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.13.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.14",
+          "title": "Estávamos Perdidos, Mas Jesus nos Salvou",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.14.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.15",
+          "title": "O Erro Nunca Estará em Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.15.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.16",
+          "title": "Com Deus É Tudo na Base da Verdade",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.16.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.17",
+          "title": "A Graça É o Mover de Deus em Nossa Direção",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.17.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.18",
+          "title": "Não Se Engane, a Graça É para Quem Faz por Onde",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.18.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.19",
+          "title": "Uma Alma Vale Muito para Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.19.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.20",
+          "title": "Não Deva Nada a Ninguém",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.20.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.21",
+          "title": "Não Torça pela Derrota do Seu Irmão",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.21.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.22",
+          "title": "Quão Formosos Sãos os Pés dos Que Anunciam",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.22.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.23",
+          "title": "Dando Muitos Frutos para Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.23.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.24",
+          "title": "Quem Nasceu de Novo Pertence a Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.24.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.25",
+          "title": "Busque em Deus as Suas Forças",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.25.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.26",
+          "title": "Fique Atento aos Conselhos Que Vêm da Palavra de Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.26.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.27",
+          "title": "Você Não Foi Constituído Juiz",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.27.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.28",
+          "title": "As Obras Sozinhas Não Valem de Nada, Aja Com Fé",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.28.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.29",
+          "title": "Não Viva para Si Mesmo",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.29.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.30",
+          "title": "O Amor Grandioso de um Deus Maravilhoso",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.30.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202001.31",
+          "title": "A Dedicação à Obra de Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202001.31.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
         {
           "id": "2019121",
           "title": "Aprenda Como Ser Usado por Deus",
@@ -2105,6 +2329,41 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "16",
+          "title": "Assuma sua posição em Cristo",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/assuma-sua-posicao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "15",
+          "title": "E despertaram Jesus",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/despertaram-jesus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "14",
+          "title": "Guardai-vos do fermento dos fariseus",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/guardai-vos-do-fermento.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "13",
+          "title": "A misericordia e a verdade do Senhor",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/misericordia-verdade.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "12",
+          "title": "Seja abundante na obra do Senhor",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/seja-abundante.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "11",
           "title": "Sem fé é impossível agradar a Deus",
