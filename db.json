@@ -2690,59 +2690,333 @@
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "title": "Recado do Coração de Deus",
       "artist": "RIT TV",
       "cover": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg",
       "tracks": [
         {
           "id": "1",
-          "title": "A Maior reunião de todos os tempos - 1/7",
+          "title": "A Maior reunião de todos os tempos 1",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-17.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "2",
-          "title": "A Maior reunião de todos os tempos - 2/7",
+          "title": "A Maior reunião de todos os tempos 2",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-27.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "3",
-          "title": "A Maior reunião de todos os tempos - 3/7",
+          "title": "A Maior reunião de todos os tempos 3",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-37.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "4",
-          "title": "A Maior reunião de todos os tempos - 4/7",
+          "title": "A Maior reunião de todos os tempos 4",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-47.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "5",
-          "title": "A Maior reunião de todos os tempos - 5/7",
+          "title": "A Maior reunião de todos os tempos 5",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-57.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "6",
-          "title": "A Maior reunião de todos os tempos - 6/7",
+          "title": "A Maior reunião de todos os tempos 6",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-67.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
         },
         {
           "id": "7",
-          "title": "A Maior reunião de todos os tempos - 7/7",
+          "title": "A Maior reunião de todos os tempos 7",
           "artist": "Recado do Coração de Deus",
           "url": "https://www.bestrongest.com.br/podcasts/recados/files/recado-estudo-maior-reuniao-77.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "8",
+          "title": "Um Coração Igual ao Teu 1",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-1.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Um Coração Igual ao Teu 2",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-2.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "10",
+          "title": "Um Coração Igual ao Teu 3",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-3.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "11",
+          "title": "Um Coração Igual ao Teu 4",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-4.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "12",
+          "title": "Um Coração Igual ao Teu 5",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-5.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "13",
+          "title": "Um Coração Igual ao Teu 6",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-6.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "14",
+          "title": "Um Coração Igual ao Teu 7",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-7.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "15",
+          "title": "Um Coração Igual ao Teu 8",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-8.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "16",
+          "title": "Um Coração Igual ao Teu 9",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-9.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "17",
+          "title": "Um Coração Igual ao Teu 10",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-10.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "18",
+          "title": "Um Coração Igual ao Teu 11",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-11.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "19",
+          "title": "Um Coração Igual ao Teu 12",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-12.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "20",
+          "title": "Um Coração Igual ao Teu 13",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-13.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "22",
+          "title": "Um Coração Igual ao Teu 15",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-15.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "23",
+          "title": "Um Coração Igual ao Teu 16",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-16.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "24",
+          "title": "Um Coração Igual ao Teu 17",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-17.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "25",
+          "title": "Um Coração Igual ao Teu 18",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-18.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "26",
+          "title": "Um Coração Igual ao Teu 19",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-19.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "27",
+          "title": "Um Coração Igual ao Teu 20",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-20.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "28",
+          "title": "Um Coração Igual ao Teu 21",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-21.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "29",
+          "title": "Um Coração Igual ao Teu 22",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-22.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "30",
+          "title": "Um Coração Igual ao Teu 23",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-23.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "31",
+          "title": "Um Coração Igual ao Teu 24",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-24.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "32",
+          "title": "Um Coração Igual ao Teu 25",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-25.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "33",
+          "title": "Um Coração Igual ao Teu 26",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-26.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "34",
+          "title": "Um Coração Igual ao Teu 27",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-27.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "35",
+          "title": "Um Coração Igual ao Teu 28",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-28.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "36",
+          "title": "Um Coração Igual ao Teu 29",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-29.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "37",
+          "title": "Um Coração Igual ao Teu 30",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-30.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "38",
+          "title": "Um Coração Igual ao Teu 31",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-31.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "39",
+          "title": "Um Coração Igual ao Teu 32",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-32.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "40",
+          "title": "Um Coração Igual ao Teu 33",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-33.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "41",
+          "title": "Um Coração Igual ao Teu 34",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-34.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "43",
+          "title": "Um Coração Igual ao Teu 36",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-36.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "44",
+          "title": "Um Coração Igual ao Teu 37",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-37.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        },
+        {
+          "id": "45",
+          "title": "Um Coração Igual ao Teu 38",
+          "artist": "Recado do Coração de Deus",
+          "url": "https://www.bestrongest.com.br/podcasts/recados/files/coracao-igual-ao-teu-38.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/recados/recadodocoracao.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Oração da Manhã",
+      "artist": "Jaime de Amorim",
+      "cover": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg",
+      "tracks": [
+        {
+          "id": "2",
+          "title": "Oração da Manhã 2",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01122019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
+        },
+        {
+          "id": "1",
+          "title": "Oração da Manhã 1",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01092019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         }
       ]
     }
