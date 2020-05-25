@@ -1717,7 +1717,7 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
-          "id": "61",
+          "id": "60",
           "title": "Livre-se da pertubação e do medo",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG06112019.0000.mp3",
@@ -2524,6 +2524,13 @@
       "artist": "IIGD Sede",
       "cover": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg",
       "tracks": [
+        {
+          "id": "14122019",
+          "title": "Simplesmente viva na palavra",
+          "artist": "Mulheres Que Vencem",
+          "url": "https://www.bestrongest.com.br/podcasts/mqv/files/MQV14122019.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/mqv/mqv.jpg"
+        },
         {
           "id": "28122019",
           "title": "A graça e o poder de Deus",
