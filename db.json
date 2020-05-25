@@ -1717,6 +1717,27 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "60",
+          "title": "Livre-se da pertubação e do medo",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG06112019.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "59",
+          "title": "Saia da prisão do inimigo",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG06102019.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "58",
+          "title": "Não aceite o fracasso e o sofrimento",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG10112019.0000.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "57",
           "title": "Não deixe o ódio entrar no seu coração",
           "artist": "Jaime de Amorim",
