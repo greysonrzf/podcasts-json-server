@@ -7,17 +7,17 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
-          "id": "5279",
-          "title": "Jesus Autor e Consumador da fé",
+          "id": "5307",
+          "title": "O Conhecimento que te faz vencer",
           "artist": "Show da Fé",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5279.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5307.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
-          "id": "5278",
-          "title": "Vença pela fé",
+          "id": "5306",
+          "title": "Busque o conhecimento de Deus",
           "artist": "Show da Fé",
-          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5278.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5306.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
@@ -200,6 +200,20 @@
           "title": "Não aceite o pecado",
           "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5280.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5279",
+          "title": "Jesus Autor e Consumador da fé",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5279.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5278",
+          "title": "Vença pela fé",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5278.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
         },
         {
