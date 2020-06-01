@@ -2215,6 +2215,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "61",
+          "title": "Seja Valente!",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG29052020.1930.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "60",
           "title": "Livre-se da pertubação e do medo",
           "artist": "Jaime de Amorim",
