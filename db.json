@@ -2215,10 +2215,24 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
-          "id": "61",
-          "title": "Seja Valente!",
+          "id": "63",
+          "title": "Não Retroceda",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG31052020.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "62",
+          "title": "Seja Valente",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG29052020.1930.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
+          "id": "61",
+          "title": "Coloque o Senhor nas suas Batalhas",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG25052020.1930.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
         },
         {
@@ -3747,6 +3761,13 @@
       "artist": "Jaime de Amorim",
       "cover": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg",
       "tracks": [
+        {
+          "id": "8",
+          "title": "Oração da Manhã 8",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM24052020.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
+        },
         {
           "id": "7",
           "title": "Oração da Manhã 7",
