@@ -2264,6 +2264,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "64",
+          "title": "O diabo tenta enfraquecer sua fé",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG07062020.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "63",
           "title": "Não Retroceda",
           "artist": "Jaime de Amorim",
