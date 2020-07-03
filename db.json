@@ -7,6 +7,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5320",
+          "title": "Deixe Deus te guiar",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5320.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
+          "id": "5317",
+          "title": "Busque a presença do Senhor",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5317.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5316",
           "title": "O Senhor te livra da angústia",
           "artist": "Show da Fé",
