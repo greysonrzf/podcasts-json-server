@@ -883,6 +883,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/msg/mensagem-de-fe.jpg",
       "tracks": [
         {
+          "id": "2246",
+          "title": "O Senhor é o seu auxílio",
+          "artist": "Mensagem de Fé",
+          "url": "http://ongrace.com/mais/midias/midia-2246.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/msg/mensagem-de-fe.jpg"
+        },
+        {
+          "id": "2245",
+          "title": "Levante e vença",
+          "artist": "Mensagem de Fé",
+          "url": "http://ongrace.com/mais/midias/midia-2245.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/msg/mensagem-de-fe.jpg"
+        },
+        {
           "id": "2244",
           "title": "Confie em Deus",
           "artist": "Mensagem de Fé",
