@@ -2684,6 +2684,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "65",
+          "title": "Não despreze os planos de Deus",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG01032020.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "64",
           "title": "O diabo tenta enfraquecer sua fé",
           "artist": "Jaime de Amorim",
@@ -3569,6 +3576,13 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "18",
+          "title": "Virtudes que devem ser acrescentadas a fé",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/quando-lider-pecado.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "17",
           "title": "Virtudes que devem ser acrescentadas a fé",
