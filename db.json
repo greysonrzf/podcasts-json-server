@@ -3077,7 +3077,7 @@
         },
         {
           "id": "47",
-          "title": "Seja santo em tudo que você fizer",
+          "title": "Não contamine seu coração",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG23022020.1400.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
@@ -3842,6 +3842,13 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "21",
+          "title": "A Palavra da Fé",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/a-palavra-da-fe.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "20",
           "title": "Jesus Cristo te dá saúde",
