@@ -1983,6 +1983,223 @@
       "cover": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg",
       "tracks": [
         {
+          "id": "202003.01",
+          "title": "A Importância do Batismo nas Aguas",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.01.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.02",
+          "title": "Jesus Faz de Você uma Nova Criatura",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.02.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.03",
+          "title": "Cuidado Com os Prazeres Momentâneos e Carnais",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.03.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.04",
+          "title": "Assuma Jesus Como Seu Senhor e Seja Pleno",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.04.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.05",
+          "title": "Consagre o Seu Corpo a Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.05.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.06",
+          "title": "Creia Que Deus É a Verdade de Todo o Coração",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.06.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.07",
+          "title": "Nunca Amaldiçoe Alguém",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.07.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.08",
+          "title": "É Tudo uma Questão de Escolha",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.08.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.09",
+          "title": "Não Se Guie pela Sua Própria Cabeça",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.09.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.10",
+          "title": "Dê o Seu Testemunho Com as Suas Finanças",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.10.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.11",
+          "title": "Pare de Desejar Mais as Coisas Carnais do Que as Espirituais",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.11.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.12",
+          "title": "A Autoridade de Deus Gera Ordem ao Universo",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.12.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.13",
+          "title": "Quem Conhece a Verdade Tem Responsabilidade",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.13.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.14",
+          "title": "Ao Invés de Julgar uma Pessoa, Ajude-a",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.14.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.15",
+          "title": "Confesse Tudo a Deus Hoje",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.15.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.16",
+          "title": "Não Peque por Razão Nenhuma",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.16.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.17",
+          "title": "Você Escolhe: Viver Sob a Lei ou Sob a Graça",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.17.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.18",
+          "title": "Não Importa o Quanto o Machucaram, Ame",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.18.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.19",
+          "title": "Saiba Reconhecer as Qualidades das Pessoas à Sua Volta",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.19.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.20",
+          "title": "Infelizmente, Há Quem Não Creia no Evangelho",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.20.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.21",
+          "title": "Deus Não Trata Ninguém Melhor do Que Ninguém",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.21.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.22",
+          "title": "Como Ouvirão Se Não Há Quem Pregue",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.22.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.23",
+          "title": "Deus Só Tem Coisa Boa para Você",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.23.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.24",
+          "title": "Deus Julga a Todos Sem Acepção",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.24.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.25",
+          "title": "Cuide da Obra de Deus Como Sua Casa",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.25.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.26",
+          "title": "Não Fique em Cima do Muro",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.26.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.27",
+          "title": "Só Você Pode Se Separar de Deus",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.27.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.28",
+          "title": "Jesus Amava Orar",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.28.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.29",
+          "title": "A Salvação de Cristo nos Traz Paz Hoje",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.29.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.30",
+          "title": "Deus Sabe de Todas as Coisas, Creia",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.30.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
+          "id": "202003.31",
+          "title": "Cuidado Com as Armadilhas de Satanás",
+          "artist": "Semeando a Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/saf/files/SAF202003.31.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/saf/saf.jpg"
+        },
+        {
           "id": "202002.01",
           "title": "Esqueça o Passado, Viva a Graça",
           "artist": "Semeando a Fé",
@@ -4853,6 +5070,20 @@
       "artist": "Jaime de Amorim",
       "cover": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg",
       "tracks": [
+        {
+          "id": "10",
+          "title": "Oração da Manhã 10",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM16092018.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
+        },
+        {
+          "id": "9",
+          "title": "Oração da Manhã 9",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM18112018.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
+        },
         {
           "id": "8",
           "title": "Oração da Manhã 8",
