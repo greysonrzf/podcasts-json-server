@@ -3518,6 +3518,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "35",
+          "title": "Vem, Espírito Santo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_espirito_santo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "34",
           "title": "Abraça-me",
           "artist": "Adoração",
@@ -3571,13 +3578,6 @@
           "title": "Faz Tudo Novo",
           "artist": "Adoração",
           "url": "https://www.bestrongest.com.br/podcasts/worship/files/faz_tudo_novo.mp3",
-          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
-        },
-        {
-          "id": "26",
-          "title": "Vem, Espírito Santo",
-          "artist": "Adoração",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem_espirito_santo.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
