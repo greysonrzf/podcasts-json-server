@@ -7,6 +7,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5333",
+          "title": "Quem anda com Deus vence",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5333.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5328",
           "title": "As maravilhas divinas",
           "artist": "Show da Fé",
@@ -917,6 +924,13 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/msg/mensagem-de-fe.jpg",
       "tracks": [
+        {
+          "id": "2287",
+          "title": "Esforça-te e tende bom ânimo",
+          "artist": "Mensagem de Fé",
+          "url": "http://ongrace.com/mais/midias/midia-2287.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/msg/mensagem-de-fe.jpg"
+        },
         {
           "id": "2286",
           "title": "Aceite o testemunho que o Senhor lhe dá",
