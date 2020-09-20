@@ -3300,6 +3300,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "66",
+          "title": "Ele sabe de todas as coisas",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG05022020.1930.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "65",
           "title": "Não despreze os planos de Deus",
           "artist": "Jaime de Amorim",
