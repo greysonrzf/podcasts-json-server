@@ -3300,6 +3300,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
       "tracks": [
         {
+          "id": "77",
+          "title": "Peça conhecimento ao Senhor",
+          "artist": "Jaime de Amorim",
+          "url": "https://www.bestrongest.com.br/podcasts/iigd/files/MSG15022020.1800.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png"
+        },
+        {
           "id": "76",
           "title": "Sirva a Deus continuamente",
           "artist": "Jaime de Amorim",
@@ -4283,6 +4290,20 @@
       "artist": "RR Soares",
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
+        {
+          "id": "25",
+          "title": "A chamada de Noé",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/a-chamada-de-noe.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
+          "id": "24",
+          "title": "O pecado da omissão",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/o-pecado-da-omissao.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
         {
           "id": "23",
           "title": "O filho do oficial",
