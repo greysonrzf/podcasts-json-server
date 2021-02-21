@@ -3861,6 +3861,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "41",
+          "title": "Aos pés da Cruz",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/aos-pes-da-cruz.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "40",
           "title": "Vivo ele está / Porque ele vive",
           "artist": "Adoração",
