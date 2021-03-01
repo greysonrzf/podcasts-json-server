@@ -3875,6 +3875,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "45",
+          "title": "Eu me rendo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/eu-me-rendo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "44",
           "title": "Maranata",
           "artist": "Adoração",
