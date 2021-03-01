@@ -7,8 +7,15 @@
       "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
       "tracks": [
         {
+          "id": "5319",
+          "title": "Seja fiel aos estatutos do Senhor",
+          "artist": "Show da Fé",
+          "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5319.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
+        },
+        {
           "id": "5318",
-          "title": "Seja dependente do espírito santo",
+          "title": "Seja dependente do Espírito Santo",
           "artist": "Show da Fé",
           "url": "https://www.bestrongest.com.br/podcasts/showdafe/files/5318.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png"
@@ -3867,6 +3874,13 @@
       "artist": "IIGD Sede",
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
+        {
+          "id": "42",
+          "title": "Rei e Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/rei-e-senhor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
         {
           "id": "41",
           "title": "Aos pés da Cruz",
