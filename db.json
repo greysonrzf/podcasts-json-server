@@ -3924,6 +3924,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "46",
+          "title": "Restitui",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/restitui.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "45",
           "title": "Eu me rendo",
           "artist": "Adoração",
