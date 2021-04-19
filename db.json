@@ -3924,6 +3924,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "48",
+          "title": "Gerado para o Teu Louvor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/gerado-para-o-teu-louvor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "47",
           "title": "Todavia me alegrarei",
           "artist": "Adoração",
