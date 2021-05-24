@@ -4288,6 +4288,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "51",
+          "title": "Rei, Eterno Deus",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/rei-eterno-deus.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "50",
           "title": "Caia Fogo",
           "artist": "Adoração",
@@ -5744,70 +5751,70 @@
       "tracks": [
         {
           "id": "10",
-          "title": "Oração da Manhã 10",
+          "title": "10. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM16092018.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "9",
-          "title": "Oração da Manhã 9",
+          "title": "9. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM18112018.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "8",
-          "title": "Oração da Manhã 8",
+          "title": "8. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM24052020.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "7",
-          "title": "Oração da Manhã 7",
+          "title": "7. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM29092019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "6",
-          "title": "Oração da Manhã 6",
+          "title": "6. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM02092018.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "5",
-          "title": "Oração da Manhã 5",
+          "title": "5. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM23022020.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "4",
-          "title": "Oração da Manhã 4",
+          "title": "4. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01032020.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "3",
-          "title": "Oração da Manhã 3",
+          "title": "3. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01092013.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "2",
-          "title": "Oração da Manhã 2",
+          "title": "2. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01122019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
         },
         {
           "id": "1",
-          "title": "Oração da Manhã 1",
+          "title": "1. Oração da Manhã",
           "artist": "Jaime de Amorim",
           "url": "https://www.bestrongest.com.br/podcasts/oracao/files/ODM01092019.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/oracao/oracaodamanha.jpg"
