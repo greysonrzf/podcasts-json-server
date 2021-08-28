@@ -4365,10 +4365,17 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
-          "id": "52",
+          "id": "53",
           "title": "A Ele a Glória",
           "artist": "Adoração",
-          "url": "https://www.bestrongest.com.br/podcasts/worship/files/ a-ele-a-gloria.mp3",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/a-ele-a-gloria.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "52",
+          "title": "Vem me tocar, Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/vem-me-tocar.mp3",
           "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
         },
         {
