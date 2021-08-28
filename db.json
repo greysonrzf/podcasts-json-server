@@ -4365,6 +4365,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "52",
+          "title": "A Ele a Glória",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/ a-ele-a-gloria.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "51",
           "title": "Rei, Eterno Deus",
           "artist": "Adoração",
