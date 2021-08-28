@@ -4365,6 +4365,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "54",
+          "title": "Ousado Amor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/ousado-amor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "53",
           "title": "A Ele a Glória",
           "artist": "Adoração",
