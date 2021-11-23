@@ -4956,6 +4956,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg",
       "tracks": [
         {
+          "id": "26",
+          "title": "O Cristão Intrépido",
+          "artist": "Mensagens Clássicas",
+          "url": "https://www.bestrongest.com.br/podcasts/classicas/files/o-cristao-intrepido.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/classicas/classicas_album_cover.jpg"
+        },
+        {
           "id": "25",
           "title": "A chamada de Noé",
           "artist": "Mensagens Clássicas",
