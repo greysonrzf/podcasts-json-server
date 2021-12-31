@@ -2,9 +2,9 @@
   "podcasts": [
     {
       "id": 1,
-      "title": "Show da Fé",
-      "artist": "RR Soares",
-      "cover": "https://www.bestrongest.com.br/podcasts/showdafe/showdafe-album-cover.png",
+      "title": "R.R. Soares",
+      "artist": "Show da Fé",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/rrsoares.png",
       "tracks": [
         {
           "id": "5347",
@@ -1088,9 +1088,9 @@
     },
     {
       "id": 4,
-      "title": "Ministrações",
-      "artist": "Jaime de Amorim",
-      "cover": "https://www.bestrongest.com.br/podcasts/iigd/iigd-album-cover.png",
+      "title": "Jaime de Amorim",
+      "artist": "Ministrações IIGD",
+      "cover": "https://www.bestrongest.com.br/podcasts/gracefy/img/jaymedeamorim.png",
       "tracks": [
         {
           "id": "126",
