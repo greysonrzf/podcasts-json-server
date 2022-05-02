@@ -5760,6 +5760,13 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "57",
+          "title": "O que tua Glória fez comigo",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/o-que-tua-gloria-fez-comigo.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "56",
           "title": "Atos 2 / Aclame ao Senhor",
           "artist": "Adoração",
