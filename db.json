@@ -5760,6 +5760,20 @@
       "cover": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png",
       "tracks": [
         {
+          "id": "56",
+          "title": "Atos 2 / Aclame ao Senhor",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/atos2-aclame-ao-senhor.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
+          "id": "55",
+          "title": "Lugares altos",
+          "artist": "Adoração",
+          "url": "https://www.bestrongest.com.br/podcasts/worship/files/lugares-altos.mp3",
+          "artwork": "https://www.bestrongest.com.br/podcasts/worship/worship-album-cover.png"
+        },
+        {
           "id": "54",
           "title": "Ousado Amor",
           "artist": "Adoração",
